@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "517020077040",
+    "firebase_url": "https://feel-safe-5f04f.firebaseio.com",
+    "project_id": "feel-safe-5f04f",
+    "storage_bucket": "feel-safe-5f04f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:517020077040:android:4ce3e3cb7967b29878eb35",
+        "android_client_info": {
+          "package_name": "com.example.feelsafe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "517020077040-0vhigv86nstc2jitgbjb569a2rsu1sov.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQ1_nmtFn5ev2FzFU6MIqcnXDoWRWMdxc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "517020077040-0vhigv86nstc2jitgbjb569a2rsu1sov.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "517020077040-3br50bsa8dugp4rr5l8efshnqdhj8jou.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.feelsafe"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

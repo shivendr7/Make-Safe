@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/str1"
+        android:title="Mark this area safe"
+        app:showAsAction="never"/>
+    <item android:id="@+id/str2"
+        android:title="Mark this area Suspected"
+        app:showAsAction="never"/>
+    <item android:id="@+id/str3"
+        android:title="Mark this area Infected"
+        app:showAsAction="never"/>
+    <item android:id="@+id/str4"
+        android:title="Remove my marker"
+        app:showAsAction="never"/>
+    <item android:id="@+id/str5"
+        android:title="About App"
+        app:showAsAction="never"/>
+</menu>
